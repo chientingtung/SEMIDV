@@ -6,13 +6,13 @@ SEMIDV is a semiconductor device simulator that solves finite-difference 2D Pois
 Install SEMIDV using pip:
 
 ```bash
-pip install semis
+pip install semidv
 ```
 
 ## Usage
 
 ```python
-import semis
+import semidv
 ```
 
 For more details, please read the SEMIDV User Manual.
@@ -34,6 +34,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-GitHub: github.com/chientingtung/SEMIS
+GitHub: github.com/chientingtung/SEMIDV
 
 Email: cttung@berkeley.edu
