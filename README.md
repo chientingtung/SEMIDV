@@ -26,7 +26,9 @@ Please make sure to update tests as appropriate.
 
 Clone the repository:
 
+```bash
 git clone https://github.com/chientingtung/SEMIDV.git
+```
 
 ## License
 
