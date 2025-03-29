@@ -5,6 +5,5 @@ authors:
     given-names: Chien-Ting
     orcid: "https://orcid.org/0000-0002-4508-6237"
 title: "SEMIDV"
-version: "1.0.7"
-doi: "10.5281/zenodo.15104172"
+repository-code: "https://github.com/chientingtung/SEMIDV"
 date-released: "2025-03-28"
