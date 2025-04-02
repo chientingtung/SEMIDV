@@ -29,6 +29,10 @@ Clone the repository:
 ```bash
 git clone https://github.com/chientingtung/SEMIDV.git
 ```
+## Publication
+
+Please cite [1] if you use SEMIDV in your works.
+[1] C.-T. Tung, "SEMIDV: A Compact Semiconductor Device Simulator with Quantum Effects," arXiv, 2025. [Online]. Available: https://arxiv.org/abs/2504.00214.
 
 ## License
 
