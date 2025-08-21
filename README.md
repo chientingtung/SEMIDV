@@ -33,7 +33,8 @@ git clone https://github.com/chientingtung/SEMIDV.git
 
 Please cite [1] if you use SEMIDV in your works.
 
-[1] Chien-Ting Tung; Study and design nanotransistor using SEMIDV device simulator. APL Electronic Devices 1 September 2025; 1 (3): 036114. https://doi.org/10.1063/5.0280961\n
+[1] Chien-Ting Tung; Study and design nanotransistor using SEMIDV device simulator. APL Electronic Devices 1 September 2025; 1 (3): 036114. https://doi.org/10.1063/5.0280961
+
 [2] C.-T. Tung, "SEMIDV: A Compact Semiconductor Device Simulator with Quantum Effects," arXiv, 2025. [Online]. Available: https://arxiv.org/abs/2504.00214.
 
 ## License
